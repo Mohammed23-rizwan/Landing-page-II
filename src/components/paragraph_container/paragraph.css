@@ -1,0 +1,31 @@
+.container {
+  width: 100vw;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.padd {
+  margin-top: 10px;
+}
+.paracontainer {
+  height: 200px;
+  width: 350px;
+  text-align: center;
+}
+h2 {
+  font-size: 34px;
+  font-weight: 200;
+  color: #252525;
+}
+p {
+  font-size: 16px;
+  color: #252525;
+}
+button {
+  padding: 5px 25px;
+  border-radius: 5px;
+  border: none;
+  background-color: #252525;
+  color: white;
+}
